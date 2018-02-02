@@ -5,15 +5,19 @@ html body{
 
 h1{
 color: #EBAE02;
+margin-left: 3%;
 }
 h2{
 color: #EED39F;
+margin-left: 2%;
 }
 h3{
 color: #1a164c;
+margin-left: 2%;
 }
 h4{
 color: #7c4ae8;
+margin-left: 2%;
 }
 /*a:link */
 a:link{
