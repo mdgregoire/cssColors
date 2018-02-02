@@ -1,0 +1,33 @@
+html body{
+  background-color: #cae9fc;
+  font-family: Helvetica;
+}
+
+h1{
+color: #EBAE02;
+}
+h2{
+color: #EED39F;
+}
+h3{
+color: #1a164c;
+}
+h4{
+color: #7c4ae8;
+}
+/*a:link */
+a:link{
+  color: #110D75;
+}
+/* visited link */
+a:visited {
+    color: green;
+}
+/* mouse over link */
+a:hover {
+    color: #FFD689;
+}
+/* selected link */
+a:active {
+    color: blue;
+}
